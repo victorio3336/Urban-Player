@@ -1,0 +1,17 @@
+.player-bar {
+    margin-top: 260px;
+ }
+ 
+ 
+ #volume-control {
+    width: 200px;
+    margin-left: 35%;
+    color: #000000;
+ }
+ 
+ #previous, #play-pause, #next {
+    margin: 0 30px;
+    width: 40px;
+    color: #000000;
+ }
+ 

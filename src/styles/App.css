@@ -1,0 +1,45 @@
+/* @import url('https://fonts.googleapis.com/css?family=Courgette'); */
+/* @import url('https://fonts.googleapis.com/css?family=Sintony:700'); */
+@import url('https://fonts.googleapis.com/css?family=Asap:500');
+
+
+.container-fluid {
+   height: 100vh;
+   background-color: #000000;
+   background-size: cover;
+   background-position: bottom right;
+   background-repeat: repeat-x;
+}
+
+
+.nav-bar {
+    /* float: right; */
+    list-style: none;
+    padding-top: 20px;
+    background-color: #000000;
+    background-position: center left;
+    /* font-family: 'Courgette', cursive; */
+    /* font-family: 'Sintony', sans-serif; */
+    font-family: 'Asap', sans-serif;
+    /* text-align: center; */
+}
+
+.nav-bar h1, .nav-bar h2 {
+   color: #ffffff;
+   text-decoration: none;
+}
+
+.nav-bar:last-child {
+  text-align: right;
+}
+
+.nav-bar li {
+   display: inline-block;
+   padding-left: 40px;
+}
+
+.my-music {
+  float: right;
+  padding-right: 100px;
+}
+
