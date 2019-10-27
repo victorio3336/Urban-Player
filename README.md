@@ -5,3 +5,4 @@ Music player app that allow users to listen streaming music on the go.
 
 Live App here: 
 
+https://clever-dubinsky-ee53a7.netlify.com
